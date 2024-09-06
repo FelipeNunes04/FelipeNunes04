@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipenunes04&label=Profile%20views&color=0e75b6&style=flat" alt="felipenunes04" /> </p>
 
-- 🔭 I’m currently working at [QAT Global](https://qat.com/)
-
 - 🌱 I’m currently learning **software architecture solutions, design patterns and developing best practices**
 
 - 📫 How to reach me **felipennunes04@icloud.com**
